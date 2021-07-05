@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArifKOMIS45
 - 👀 I’m interested in SDET
-- 🌱 I’m currently learning Cucumber
+- 🌱 I’m currently learning ApachiPOI
 - 💞️ I’m looking to collaborate on Web Testıng
 - 📫 How to reach me By email
 
